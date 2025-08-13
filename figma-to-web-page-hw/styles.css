@@ -1,0 +1,211 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    background: #FFF8F0;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    line-height: 24px;
+    color: #55206D;
+    margin: 0;
+    padding: 0;
+    width: 1440px;
+    height: 2316px;
+
+}
+
+h1 {
+    font-family: "League Spartan", sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: left;
+    color: #190D37;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    position: relative;
+}
+
+h2 {
+    font-family: "League Spartan", sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    text-align: center;
+    color: #000000;
+}
+
+.section-heading {
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.bigtext {
+    color: #331E6A;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+#hero-section {
+    display: flex;
+    width: 1060px;
+    margin: 0 auto 48px auto;
+    margin-left: 190px;
+}
+
+#hero-text {
+    width: 50%;
+    padding: 30px 20px 30px 20px;
+}
+
+#hero-image-wrapper {
+    width: 50%;
+}
+
+#hero-image {
+    width: 100%;
+}
+
+.small-text {
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    color: #000000;
+}
+
+#hi-and-name {
+    margin-top: 52px;
+}
+
+#contact-button input[type="submit"] {
+    background-color: black;
+    color: white;
+    font-weight: 500;
+    cursor: pointer;
+    width: 138px;
+    height: 44px;
+    border-radius: 4px;
+    border: none;
+    box-shadow: none;
+}
+
+#skills {
+    width: 1060px;
+    margin-left: 190px;
+    border-radius: 10px 0px 0px 0px;
+    opacity: 0px;
+}
+
+.overtitle {
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #2858FF;
+    margin-bottom: 8px;
+}
+
+.section-subtitle {
+    text-align: center;
+    margin: 8px auto 48px auto;
+    max-width: 700px;
+}
+
+#skill-boxes {
+    display: flex;
+    margin-left: 0px;
+    margin-right: 90px;
+    padding-left: 0px;
+}
+
+.skill-box {
+    width: 33%;
+    box-shadow: 6px 2px 25px -9px #0000001A;
+    background-color: #FFFFFF;
+    padding: 16px;
+    margin: 8px;
+    border-radius: 10px;
+}
+
+.skill-name {
+    text-transform: uppercase;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    color: #000000;
+}
+
+.skill-description {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 24px;
+    columns: #55206D;
+}
+
+#project-details {
+    display: flex;
+    margin-top: 10px;
+}
+
+.project-logo {
+    display: inline;
+    padding: 4px;
+}
+
+.project-name-and-description {
+    padding: 10px;
+}
+
+.project-name {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: left;
+    color: #291854;
+}
+
+.project-description {
+    width: 820px;
+    text-align: left;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    columns: #55206D;
+}
+
+.project-link {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    text-align: left;
+    color: #6A87A3;
+    margin: 8px 0 0 0;
+    padding-top: 2px;
+}
+
+#footer{
+    background-color: black;
+    text-align: center;
+    height: 50px;
+    padding-top: 29px;
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+    margin-top: 300px;
+    margin-bottom: 0px;
+}
